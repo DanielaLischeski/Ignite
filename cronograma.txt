@@ -1,0 +1,11 @@
+Meu cronograma:
+https://www.notion.so/Cronograma-de-estudos-212025e385f3435eb3a08157485caabc
+
+Cronograma Werner: 
+https://www.notion.so/Cronograma-de-estudos-826b00f7ca474da2bfa5b34eecdf949a
+
+Ignite:
+https://app.rocketseat.com.br/ignite/react-js
+
+documentação:
+styled-components.com/dics/api
